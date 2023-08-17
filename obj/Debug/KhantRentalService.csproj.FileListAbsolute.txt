@@ -1,0 +1,8 @@
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\bin\Debug\KhantRentalService.exe.config
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\bin\Debug\KhantRentalService.exe
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\bin\Debug\KhantRentalService.pdb
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\KhantRentalService.csprojResolveAssemblyReference.cache
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\RentalService.frmItemCreation.resources
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\KhantRentalService.csproj.GenerateResource.Cache
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\KhantRentalService.exe
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\KhantRentalService.pdb
